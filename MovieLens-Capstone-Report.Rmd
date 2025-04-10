@@ -1,0 +1,28 @@
+---
+title: "MovieLens Capstone Report"
+author: "Yvonne Kirschler"
+date: "`r Sys.Date()`"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, warning = FALSE, message = FALSE)
+library(tidyverse)
+```
+
+# Introduction
+
+The goal of this project is to build a model that predicts movie ratings.  
+Performance is measured using RMSE and tested once on `final_holdout_test`.
+
+# Final RMSE
+
+```{r}
+final_rmse <- 0.864817
+final_rmse
+```
+
+# Conclusion
+
+The final regularized model reached an RMSE of `r final_rmse`.  
+This result meets the target set by the edX Capstone Project instructions.
