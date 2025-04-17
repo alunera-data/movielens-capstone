@@ -62,3 +62,6 @@ This project was created by **Yvonne Kirschler**
 and is licensed under the [MIT License](LICENSE).
 
 If you reuse code from this repository, please provide proper attribution.
+
+GitHub profile: [@alunera-data](https://github.com/alunera-data)  
+LinkedIn: [Yvonne Kirschler](https://www.linkedin.com/in/yvonne-kirschler-719224188/)
